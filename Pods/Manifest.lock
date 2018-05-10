@@ -1,0 +1,24 @@
+PODS:
+  - Nimble (7.1.1)
+  - Quick (1.3.0)
+  - SwiftCheck (0.10.0)
+
+DEPENDENCIES:
+  - Nimble
+  - Quick
+  - SwiftCheck
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+    - SwiftCheck
+
+SPEC CHECKSUMS:
+  Nimble: 391f07782af4b37914f9bd7b2ffbb952731b8202
+  Quick: 03278013f71aa05fe9ecabc94fbcc6835f1ee76f
+  SwiftCheck: 8a3c3638941467bc142d625f374a8409dd262ae8
+
+PODFILE CHECKSUM: ea5f76c092c70cfa1ee9b09c12f006eb12b30099
+
+COCOAPODS: 1.5.2
